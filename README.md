@@ -5,4 +5,12 @@ Reimplementación de UMAP-kNN (reducción de dimensionalidad y clasificación de
 
 ![gráfica](graph.png)
 
+Se requieren las siguientes librerías:
+ - river
+ - matplotlib
+ - numpy
+ - umap-learn
+
+Modificar *batch_size* modifica el tamaño del lote.
+
 Existe una implementación en el repo: https://github.com/marouabahri/UMAP-kNN que es obsoleta.
